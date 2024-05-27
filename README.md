@@ -1,5 +1,4 @@
-markdown
-Copiar código
+
 # Manual de proyecto de investigación Herramientas Bioinformáticas
 
 ### Nazaret Porras, Nicole Rojas, Alexander Monge, Crista Montiel y Daniela Montero
